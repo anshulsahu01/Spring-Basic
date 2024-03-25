@@ -1,5 +1,5 @@
 
-# Spring Learning from basices
+# Spring Learning From Basices
 Welcome to the Spring Learning File! This repository is designed to provide you with comprehensive resources and materials to learn about Spring Framework, a powerful and widely used framework for building Java applications. Whether you're a beginner looking to get started or an experienced developer seeking to enhance your skills, this repository aims to cater to your learning needs
 
 # What is Spring Framework?
